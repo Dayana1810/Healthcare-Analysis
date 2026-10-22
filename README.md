@@ -10,4 +10,7 @@ The dashboard includes visualizations such as patients by medical condition, gen
 
 The project helps identify common medical conditions, understand patient admission patterns, compare billing amounts across insurance providers, and examine hospital-related metrics. Overall, the dashboard demonstrates how data analytics and visualization can transform healthcare data into meaningful insights to support informed decision-making and improve operational efficiency.
 
+### Publish Dashboard
+I published my Healthcare Data Analysis Dashboard to Power BI Service to make the report accessible online. This allows authorized users to interact with the dashboard, apply filters, analyze healthcare KPIs, and understand patient admission and billing trends. The dashboard supports data-driven decision-making and provides a clear overview of healthcare performance.
+
 - <a href="https://app.powerbi.com/groups/me/reports/d250608b-9ad2-457a-821b-5243dd665c4f/e2d941a8095c3b1854e4?experience=power-bi">Power BI Dashboard </a>
