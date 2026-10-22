@@ -1,2 +1,13 @@
 # Healthcare-Analysis
+
+T### Healthcare Data Analysis Project – Overall Summary
+
+The Healthcare Data Analysis Project focuses on analyzing patient records, hospital admissions, medical conditions, billing amounts, insurance providers, and hospital performance. The dashboard provides an interactive overview of healthcare data using key performance indicators (KPIs), charts, and filters.
+
+The dashboard highlights **54.97K total patients, 1,404M billing amount, 39.88K hospitals, 18.10K emergency admissions, 851.93K length of stay, 40.34K doctors, and 18.44K abnormal test results**, as displayed in the KPI cards.
+
+The dashboard includes visualizations such as patients by medical condition, gender distribution, monthly patient admissions, admission type distribution, billing amount by hospital, and average billing amount by insurance provider. Interactive filters for gender, blood type, medical condition, insurance provider, and admission type allow users to explore specific patient groups and healthcare trends.
+
+The project helps identify common medical conditions, understand patient admission patterns, compare billing amounts across insurance providers, and examine hospital-related metrics. Overall, the dashboard demonstrates how data analytics and visualization can transform healthcare data into meaningful insights to support informed decision-making and improve operational efficiency.
+
 - <a href="https://app.powerbi.com/groups/me/reports/d250608b-9ad2-457a-821b-5243dd665c4f/e2d941a8095c3b1854e4?experience=power-bi">Power BI Dashboard </a>
