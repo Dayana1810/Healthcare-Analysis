@@ -1,6 +1,6 @@
 # Healthcare-Analysis
 
-T### Healthcare Data Analysis Project – Overall Summary
+### Healthcare Data Analysis Project – Overall Summary
 
 The Healthcare Data Analysis Project focuses on analyzing patient records, hospital admissions, medical conditions, billing amounts, insurance providers, and hospital performance. The dashboard provides an interactive overview of healthcare data using key performance indicators (KPIs), charts, and filters.
 
