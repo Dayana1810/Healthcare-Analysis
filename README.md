@@ -19,7 +19,7 @@ I published my Healthcare Data Analysis Dashboard to Power BI Service to make th
 
 The dataset used for this Healthcare Data Analysis Project was downloaded from **Kaggle**, an online platform that provides datasets for data analysis and machine learning projects.
 
-The dataset contains information about patients, including age, gender, blood type, medical conditions, admission dates, hospitals, doctors, insurance providers, billing amounts, admission types, and test results.
+The dataset contains information about patients, including age, gender, blood type, medical conditions, admission dates, hospitals, doctors, insurance providers, billing amounts, admission types, and test results. 
 
 The dataset was used to analyze healthcare trends, calculate key performance indicators (KPIs), and create interactive dashboards using Excel, SQL, Power BI, and Tableau.
 
