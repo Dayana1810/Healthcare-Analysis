@@ -29,7 +29,7 @@ The main objective was to transform raw healthcare data into meaningful insights
 
 ### Conclusion
 
-The Healthcare Data Analysis Dashboard provides valuable insights into patient demographics, medical conditions, hospital admissions, billing amounts, and insurance providers. Using interactive KPIs, charts, and slicers, the dashboard helps identify healthcare trends and compare key performance indicators. Developed using healthcare data sourced from Kaggle and visualized in Power BI, the project demonstrates how data analytics can transform raw data into meaningful insights. Overall, the dashboard supports data-driven decision-making, improves understanding of hospital operations, and helps identify opportunities for better healthcar
+The Healthcare Data Analysis Dashboard provides valuable insights into patient demographics, medical conditions, hospital admissions, billing amounts, and insurance providers. Using interactive KPIs, charts, and slicers, the dashboard helps identify healthcare trends and compare key performance indicators. Developed using healthcare data sourced from Kaggle and visualized in Power BI, the project demonstrates how data analytics can transform raw data into meaningful insights. Overall, the dashboard supports data-driven decision-making, improves understanding of hospital operations, and helps identify opportunities for better healthcare.
 
 
 
